@@ -1,1 +1,1 @@
-new project created successfully
+new project successfully created .
